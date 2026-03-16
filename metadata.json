@@ -1,0 +1,7 @@
+{
+  "name": "Remix: RoomieEats",
+  "description": "Shared meal accounting and lifestyle log for roommates Z, X, and Y.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
